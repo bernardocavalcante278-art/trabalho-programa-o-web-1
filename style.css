@@ -1,0 +1,11 @@
+/* Passo 9: cores das mensagens */
+#mensagem {
+min-height: 1.2em;
+font-weight: bold;
+}
+.erro {
+color: #c62828;
+}
+.sucesso {
+color: #2e7d32;
+}
